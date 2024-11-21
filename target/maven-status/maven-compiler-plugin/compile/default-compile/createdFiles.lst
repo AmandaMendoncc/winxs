@@ -1,0 +1,14 @@
+model\FuncionarioModel.class
+view\BancoMalvaderApp.class
+com\mycompany\bancowinx\BancoWinx.class
+view\ClienteMenuScreen.class
+view\FuncionarioMenuScreen.class
+model\ClienteCorrenteModel.class
+utils\DataManager.class
+view\LoginScreen.class
+view\MainMenuScreen.class
+controller\ClientePoupancaController.class
+model\ClienteModel.class
+model\ClientePoupancaModel.class
+controller\ClienteCorrenteController.class
+controller\FuncionarioController.class
